@@ -417,6 +417,8 @@ categories:
           url: https://github.com/koush/UrlImageViewHelper
         - name: Novoda Image Loader
           url: https://github.com/novoda/ImageLoader
+        - name: Android Query
+          url: https://github.com/androidquery/androidquery
 
     - name: Image Processing
       projects:
